@@ -14,4 +14,11 @@ _My Favorite Languages_
   <img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
 </div>
 
+_My Favorite IDE_
+
+<div class="images">
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  <img alt="Arduino IDE" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</div>
+
 Below you will find my social media and information about me. If you need any part of my code for your project, you can take it. See you soon!
