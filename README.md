@@ -6,16 +6,6 @@ This is my little corner of code where I upload my projects and things that I de
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
 
-**_I love to Use_**
-
-<div class="images">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" />
-</div>
-
-
 **_My Favorite Languages_**
 
 
