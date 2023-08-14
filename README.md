@@ -6,6 +6,8 @@ I like programming, politics, history, and philosophy. I lovely Linux! use arch 
 
 This is my little corner of code where I upload my projects and things that I develop, enjoy it!
 
+
+
 _I love to Use_
 
 <div class="images">
@@ -40,5 +42,7 @@ _My Favorite Linux Distributions_
   <img alt="Red Hat" src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
   <img alt="Suse" src="https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white" />
 </div>
+
+
 
 Below you will find my social media and information about me. If you need any part of my code for your project, you can take it. See you soon!
