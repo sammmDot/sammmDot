@@ -7,7 +7,6 @@ In addition to my academic studies, I hold a technical degree in Electronics and
 I enjoy dedicating my free time to creative endeavors and personal development projects.
 
 I love computer security, software development and Linux world.
-
-... I also have another facet where I like History, Philosophy and Politics.
+I also have another facet where I like History, Philosophy and Politics.
 
 This is my little corner of code where I upload my projects and things that I develop... or not, enjoy it!
