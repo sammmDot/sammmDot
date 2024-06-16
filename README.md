@@ -1,6 +1,6 @@
 Hi! I am Mitchel Rojas (michi) from Valparaiso, Chile. 
 
-I am currently pursuing a Bachelor's degree in Telematics Engineering at 
+I am currently pursuing a degree in Telematics Engineering at 
 the Universidad Técnica Federico Santa María.
 
 In addition to my academic studies, I hold a technical degree in Electronics and 
